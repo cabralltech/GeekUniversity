@@ -1,0 +1,2 @@
+Matriz de dimensões 3 X 3
+6 posições anuladas: [(0, 1), (0, 2), (1, 0), (1, 2), (2, 0), (2, 1)]

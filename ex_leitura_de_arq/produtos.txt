@@ -1,0 +1,4 @@
+Lápis                R$ 3.6 
+Borracha             R$ 9.67 
+Caderno              R$ 24.78 
+Tesoura              R$ 14.6 

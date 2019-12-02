@@ -1,0 +1,6 @@
+105  : André Godoy                             : [6.0, 7.0] 
+100  : Gustavo Cabezita                        : [8.0, 6.0] 
+104  : Gustavo Monteiro                        : [4.0, 5.0] 
+103  : Leonardo Brighi                         : [9.0, 10.0] 
+102  : Maria Luiza Lopes                       : [10.0, 9.0] 
+101  : Micheline Lopes                         : [3.0, 4.0] 

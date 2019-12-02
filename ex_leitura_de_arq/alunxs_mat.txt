@@ -1,0 +1,6 @@
+15        Aschermann          1985 
+14        Brighi              2010 
+11        Cabezita            1979 
+13        Godoy               1982 
+10        Lopes               1979 
+12        Santos              1988 

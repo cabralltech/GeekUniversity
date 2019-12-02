@@ -1,0 +1,5 @@
+Mhirley Lopes                           9.0       8.0       7.0 
+Gustavo Cabezita                        9.0       10.0      8.0 
+Andre Godoy                             7.0       6.0       10.0 
+Carina Santos                           9.0       9.0       10.0 
+Leonardo Brighi                         9.0       10.0      10.0 
